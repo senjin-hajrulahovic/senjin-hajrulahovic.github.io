@@ -16,16 +16,16 @@
 title: HardcodedLambda
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm all about that lambda, Be it Scala, Java or JavaScript.
+  #I'm all about that lambda, Be it Scala, Java or JavaScript.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  senjin-hajrulahovic
+github_username:  #senjin-hajrulahovic
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

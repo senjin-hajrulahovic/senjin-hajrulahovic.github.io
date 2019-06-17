@@ -4,3 +4,7 @@ title:  "[WIP] How to improve you test code by upgrading to mockito 2.x.x"
 date:   2019-06-17 20:32:48 +0200
 categories: java testing
 ---
+
+{% highlight scala %}
+l collect m
+{% endhighlight %}
